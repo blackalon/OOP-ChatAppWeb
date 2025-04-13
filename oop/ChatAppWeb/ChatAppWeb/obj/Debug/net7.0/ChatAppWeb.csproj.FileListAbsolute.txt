@@ -1,0 +1,16 @@
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.csproj.AssemblyReference.cache
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.AssemblyInfoInputs.cache
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.AssemblyInfo.cs
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.csproj.CoreCompileInputs.cache
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.MvcApplicationPartsAssemblyInfo.cache
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.RazorAssemblyInfo.cache
+/Users/aliabdulla/Desktop/oop final day /ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.RazorAssemblyInfo.cs
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.csproj.AssemblyReference.cache
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.AssemblyInfoInputs.cache
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.AssemblyInfo.cs
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.csproj.CoreCompileInputs.cache
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.MvcApplicationPartsAssemblyInfo.cache
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.RazorAssemblyInfo.cache
+/Users/aliabdulla/Desktop/oop/ChatAppWeb/ChatAppWeb/obj/Debug/net7.0/ChatAppWeb.RazorAssemblyInfo.cs
